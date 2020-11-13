@@ -1,7 +1,7 @@
 {
-    "name": "Toolman V2",
+    "name": "Toolman",
     "version": "2.0",
-    "description": "Toolman V2",
+    "description": "Toolman",
     "license": "MIT",
     "dependencies": {
         "core": "*"
